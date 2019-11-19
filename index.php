@@ -1,0 +1,1 @@
+<?php header("Location: https://jesp19-lab4.herokuapp.com/index.html");?>
